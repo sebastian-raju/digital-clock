@@ -22,7 +22,7 @@ body{
 
 
 .main-container{
-  height: 100vh;
+  height: 90dvh;
   display: flex;
   flex-direction: column;
   justify-content: center;
