@@ -33,7 +33,7 @@ body{
 
 
 .main-container{
-  height: 100dvh;
+  height: 90dvh;
   display: flex;
   flex-direction: column;
   justify-content: center;
